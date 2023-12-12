@@ -27,7 +27,7 @@
     ],
     "require": {
         "silverstripe/cms": "^4.0",
-        "symbiote/silverstripe-gridfieldextensions": "^3.2"
+        "symbiote/silverstripe-gridfieldextensions": "^4.0.3"
     },
     "autoload": {
         "psr-4": {
