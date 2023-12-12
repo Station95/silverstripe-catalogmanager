@@ -33,10 +33,5 @@
         "psr-4": {
             "LittleGiant\\CatalogManager\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.x-dev"
-        }
     }
 }
